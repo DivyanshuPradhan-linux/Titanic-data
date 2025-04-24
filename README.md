@@ -21,4 +21,4 @@ IQR is the range between these quartiles.<br>
 <br>
 (Additional) 6.Correlation and Linear regression model<br>
 
-Created by Sanchit(Karlex)
+Created by Divyanshu Pradhan (MAVEN)
